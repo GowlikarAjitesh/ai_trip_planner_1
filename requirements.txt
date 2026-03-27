@@ -1,0 +1,30 @@
+# Core packages
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-google-genai
+langgraph
+google-generativeai
+google-genai
+
+# FastAPI Stack - use Pydantic v2
+fastapi
+uvicorn
+pydantic
+
+# UI frameworks
+streamlit
+gradio
+
+# Other packages
+notebook
+ipykernel
+numpy
+pandas
+scikit-learn
+matplotlib
+python-dotenv
+requests
+tqdm
+datetime
